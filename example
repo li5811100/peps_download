@@ -1,0 +1,45 @@
+python peps_download.py -c S2ST -a peps.txt -d 2018-01-01 -f 2018-12-31 --t=T50SMJ
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2017-12-31 --t=T50SMJ
+python peps_download.py -c S2ST -a peps.txt -d 2019-04-01 -f 2019-04-11 --t=T50SMJ --write_dir /media/ivan/4T/T50SMJ --json T50SMJ-201904.json
+
+
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2017-12-31 --t=T51RUQ --write_dir /media/ivan/4T/peps-download
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T51RUQ --write_dir /media/ivan/4T/peps-download/T51RUQ
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T51SUR --write_dir /media/ivan/4T/peps-download/T51SUR
+
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50TPK --write_dir /media/ivan/4T/peps-download/T50TPK
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50TNK --write_dir /media/ivan/4T/peps-download/T50TNK
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SPJ --write_dir /media/ivan/4T/peps-download/T50SPJ
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SLJ --write_dir /media/ivan/4T/peps-download/T50SLJ
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SNJ --write_dir /media/ivan/4T/peps-download/T50SNJ
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SMF --write_dir /media/ivan/4T/peps-download/T50SMF --json T50SMF.json
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SLE --write_dir /media/ivan/4T/peps-download/T50SLE
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SMH --write_dir /media/ivan/4T/peps-download/T50SMH
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SLH --write_dir /media/ivan/4T/peps-download/T50SLH
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SKH --write_dir /media/ivan/4T/peps-download/T50SKH --json T50SKH.json 
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SNH --write_dir /media/ivan/4T/peps-download/T50SNH
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SPH --write_dir /media/ivan/4T/peps-download/T50SPH
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T49SGU --write_dir /media/ivan/4T/peps-download/T49SGU
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T49SFU --write_dir /media/ivan/4T/peps-download/T49SFU
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SKE --write_dir /media/ivan/4T/peps-download/T50SKE
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SME --write_dir /media/ivan/4T/peps-download/T50SME
+python peps_download.py -c S2ST -a peps.txt -d 2017-01-01 -f 2018-12-31 --t=T50SLJ --write_dir /media/ivan/4T/peps-download/T50SLJ
+python peps_download.py -c S2ST -a peps.txt -d 2018-12-01 -f 2018-12-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20181201-20181215-34-40-113-119 --json 20181201-20181215-34-40-113-119.json
+python peps_download.py -c S2ST -a peps.txt -d 2018-06-01 -f 2018-06-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20180601-20180615-34-40-113-119 --json 20180601-20180615-34-40-113-119.json
+python peps_download.py -c S2ST -a peps.txt -d 2018-09-01 -f 2018-09-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20180901-20180915-34-40-113-119 --json 20180901-20180915-34-40-113-119.json
+python peps_download.py -c S2ST -a peps.txt -d 2018-03-01 -f 2018-03-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20180301-20180315-34-40-113-119 --json 20180301-20180315-34-40-113-119.json
+python peps_download.py -c S2ST -a peps.txt -d 2018-11-01 -f 2018-11-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20181101-20181115-34-40-113-119 --json 20181101-20181115-34-40-113-119.json
+python peps_download.py -c S2ST -a peps.txt -d 2018-02-01 -f 2018-02-15 --lonmax=119 --lonmin=113 --latmax=34 --latmin=40 --write_dir /media/ivan/4T/peps-download/20180201-20180215-34-40-113-119 --json 20180201-20180215-34-40-113-119.json
+
+python peps_download.py -c S2ST -a peps.txt -d 2018-01-01 -f 2018-06-01 --lonmax=75 --lonmin=70 --latmax=35 --latmin=29 --write_dir /media/ivan/4T/peps-download/20180101-20180601-29-35-70-75 --json 20180101-20180601-29-35-70-75.json
+
+python peps_download.py -c S2ST -a peps.txt -d 2018-01-01 -f 2018-06-01 --lonmax=39.5 --lonmin=36.5 --latmax=-1.8 --latmin=-3.8 --write_dir /media/ivan/4T/peps-download/20180101-20180601-180-380-395-365 --json 20180101-20180601-180-380-395-365.json
+
+python peps_download.py -c S2ST -a peps.txt -d 2019-08-18 -f 2019-08-19 --t=T50SMJ --write_dir /media/ivan/6T/
+
+python peps_download.py -c S2ST -p S2MSI1C -a peps.txt -d 2019-08-21 -f 2019-08-22 --t=T50SMJ --write_dir /media/ivan/4T/T50SMJ-20190821-20190831/T50SMJ
+
+python peps_download.py -c S2ST -p S2MSI1C -a peps.txt -d 2019-08-23 -f 2019-08-24 --t=T50SMJ --write_dir /media/ivan/4T/T50SMJ-20190821-20190831/T50SMJ
+
+python peps_download.py -c S2ST -p S2MSI1C -a peps.txt -d 2019-08-28 -f 2019-08-29 --t=T50SMJ --write_dir /media/ivan/4T/T50SMJ-20190821-20190831/T50SMJ
+
